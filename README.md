@@ -17,10 +17,9 @@
 
 
 OUTPUT: Two output files will be generated in the current working directory:
-
-	 • merged_data.txt (8.1Mb): appropriately labels the data set with descriptive variable names. 
+* merged_data.txt (8.1Mb): appropriately labels the data set with descriptive variable names. 
 	   It contains a 10299 x 68  data frame. 
 	 
-	 • average_data.txt (0.2Mb): data set with the average of each variable for each activity and 
-	   each subject. It contains a 180 x 68 data frame. Note:30 subjects*6 activities= 180 rows.	
+* average_data.txt (0.2Mb): data set with the average of each variable for each activity and 
+	   each subject. It contains a 180 x 68 data frame. Note:30 subjects*6 activities= 180 rows.
 
